@@ -56,7 +56,7 @@ You can create and showcase these repositories:
 
 - 📧 Email: [anumulapraveen30@gmail.com](mailto:anumulapraveen30@gmail.com)
 - 📱 Phone: +1 (614) 648-7301
-- 🌐 LinkedIn: *(Add your LinkedIn profile here for visibility)*
+- 🌐 LinkedIn: https://www.linkedin.com/in/apraveen30121993k/
 
 ---
 
