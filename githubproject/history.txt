@@ -1,0 +1,106 @@
+ 1  git remote add https://github.com/harsha-anumula/newproject-git.git
+    2  git remote add origin https://github.com/harsha-anumula/newproject-git.git
+    3  git remote -v
+    4  git
+    5  ls
+    6  cd ..
+    7  git newproject-git
+    8  git-codebase/
+    9  git git-codebase/
+   10  git --help
+   11  git
+   12  ls
+   13  ls
+   14  mkdir github project
+   15  mkdir githubproject
+   16  ls
+   17  cd githubproject
+   18  ls
+   19  ls -a
+   20  ls ./
+   21  touch names.py
+   22  git status
+   23  ls
+   24  git status
+   25  touch names .py.txt
+   26  ls
+   27  git status
+   28  ls
+   29  git add names.py.txt
+   30  git status
+   31  ls
+   32  git status
+   33  git names.py
+   34  git add names.py
+   35  git add names.py.txt
+   36  git status
+   37  git commit -m "names.py.txt"
+   38  git status
+   39  vi names.py.txt
+   40  cat names.py.txt
+   41  git status
+   42  git add .
+   43  git satatus
+   44  git status
+   45  git restore --staged names.py.txt
+   46  git status
+   47  git add names.py.txt
+   48  git commit -m "names.py.txt files modified"
+   49  git log
+   50  rm -rf names.py.txt
+   51  git status
+   52  git add .
+   53  git commit -m "names.py.txt file deleted"
+   54  git log
+   55  git reset 8e928a49ab2d94eb7b31dddb642101893c814d1f
+   56  git status
+   57  git add .
+   58  git status
+   59  touch surname.txt
+   60  git add
+   61  git add .
+   62  git status
+   63  vi surname.txt
+   64  touch houses.txt
+   65  git add .
+   66  git status
+   67  git stash
+   68  n
+   69  git status
+   70  git log
+   71  cat names.py.txt
+   72  git stash pop
+   73  git add .
+   74  git stash
+   75  git stash clean
+   76  git stash clear
+   77  git remote add origin https://github.com/harsha-anumula/newprojects-git.git
+   78  git remote -v
+   79  git push origin proxy
+   80  git branch
+   81  cd ..
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd
+   86  cd -
+   87  cd Praveendoc/
+   88  cd githubproject/
+   89  ls
+   90  cat names.py.txt
+   91  cat names.py.txt
+   92  touch
+   93  touch helloworld.py
+   94  vi helloworld.py
+   95  ls
+   96  vi helloworld.py
+   97  cat helloworld.py
+   98  python helloworld.py
+   99  git status
+  100  git add helloworld.py
+  101  git status
+  102  git commit
+  103  git status
+  104  git push origin proxy
+  105  history
+
