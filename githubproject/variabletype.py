@@ -1,9 +1,9 @@
 # a variable to store a name 
-name = "Alice"
+name = "Harsha"
 
 # a Variable to store a number
-age = 30
+age = 31
 
 # print the variables in a sentence
-print("hello,", name, "you are", "years old.")
+print("hello,", name, "you are", age, "years old")
 
